@@ -1,28 +1,57 @@
+# Hi, I'm Kathan 👋
 
-# 👕 VibeTry - AI Virtual Fashion Studio
+Interested in the mathematics of AI (natural gradient methods) and maximizing brainrot with AI assistants
 
-A high-end virtual try-on experience powered by **Gemini 2.5 Flash Image**. Upload a photo of yourself, select or upload clothing, and see how it looks in parallel.
+---
 
-## 🚀 One-Click Deployment (Vercel)
+## Projects
 
-1. **Push this code to GitHub** (Use the Cursor Source Control sidebar).
-2. Go to [Vercel](https://vercel.com).
-3. Click **"Add New" -> "Project"**.
-4. Import this repository.
-5. **CRITICAL**: In the "Environment Variables" section, add:
-   - **Key**: `API_KEY`
-   - **Value**: Your Gemini API Key from [Google AI Studio](https://aistudio.google.com/).
-6. Click **Deploy**.
+### Resume Feedback Assistant
 
-## ✨ Features
-- **Parallel Synthesis**: Try on multiple outfits at the same time.
-- **Local Persistence**: Your model photo and custom closet are saved to your browser's local storage.
-- **Auto-Hydration**: System samples are automatically prepared for the AI engine on load.
-- **Mobile First**: Designed to feel like a premium native app on iOS/Android browsers.
+Evaluates how well a resume matches a job description and gives targeted feedback to improve the score.
 
-## 🛠️ Technical Stack
-- **AI**: Google Gemini (Nano Banana / 2.5 Flash Image)
-- **Frontend**: React 19 + TypeScript
-- **Bundler**: Vite
-- **Styling**: Tailwind CSS
-# katop1234
+### AI Hiring
+
+AI tooling for hiring workflows, candidate evaluation, and matching.
+
+### Fasha
+
+AI fashion / virtual try-on app for exploring outfits and personalized style.
+
+### AI Baby
+
+AI-powered product focused on baby-raising support and guidance.
+
+### Black-Box Optimizer
+
+Optimization work for expensive rollout-based systems, with line search as a key practical insight.
+
+### Math / Reading Repo
+
+A personal repo for working through math, ML, and technical reading in a structured way.
+
+---
+
+## Research
+
+* Fisher-inspired optimization methods
+* Prompt tuning and learned reasoning
+* KL-aware REINFORCE / reward optimization
+* Embedding table optimization
+* Search, value functions, and greedy methods
+* Theoretical links between A* and value functions
+
+---
+
+## Interests
+
+* Optimization
+* Kolmogorov complexity
+
+---
+
+## Contact
+
+* GitHub: https://github.com/katop1234
+* LinkedIn: add later
+* X / Twitter: add later
