@@ -1,39 +1,42 @@
 # Hi, I'm Kathan 👋
 
-Interested in the mathematics of AI (natural gradient methods) and maximizing brainrot with AI assistants
+I'm very interested in optimization:
+1) natural gradient methods for optimizing AI
+2) AI assistants for optimizing my life
 
 ---
 
 ## Projects
 
-### Resume Feedback Assistant
+### 📄 Resume Feedback Assistant
 
-Evaluates how well a resume matches a job description and gives targeted feedback to improve the score.
+takes in a resume and a job description and returns exactly what you need to change to pass the resume screen
 
-### AI Hiring
+### 🧘 Appa
 
-AI tooling for hiring workflows, candidate evaluation, and matching.
+AI assistant that cleans up your life and tells you the one thing to do for the next 30 minutes
 
-### Fasha
+### 🤝 Aishwarya
+
+AI agent for staffing
+
+### 👶 AI baby
+
+AI baby for couples to raise
+
+### 👗 Fasha
 
 AI fashion / virtual try-on app for exploring outfits and personalized style.
 
-### AI Baby
+### 🏹 Artemis
 
-AI-powered product focused on baby-raising support and guidance.
-
-### Black-Box Optimizer
-
-Optimization work for expensive rollout-based systems, with line search as a key practical insight.
-
-### Math / Reading Repo
-
-A personal repo for working through math, ML, and technical reading in a structured way.
+step-size agnostic natural gradient aware optimizer designed for extremely long rollouts
 
 ---
 
 ## Research
 
+* Math reading repo
 * Fisher-inspired optimization methods
 * Prompt tuning and learned reasoning
 * KL-aware REINFORCE / reward optimization
@@ -47,11 +50,3 @@ A personal repo for working through math, ML, and technical reading in a structu
 
 * Optimization
 * Kolmogorov complexity
-
----
-
-## Contact
-
-* GitHub: https://github.com/katop1234
-* LinkedIn: add later
-* X / Twitter: add later
