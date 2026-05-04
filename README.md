@@ -12,10 +12,6 @@ I'm very interested in optimization:
 
 takes in a resume and a job description and returns exactly what you need to change to pass the resume screen
 
-### 🧘 Appa
-
-AI assistant that cleans up your life and tells you the one thing to do for the next 30 minutes
-
 ### flatten-repo
 
 Stick your codebase into ChatGPT to get unlimited AI coding for free
