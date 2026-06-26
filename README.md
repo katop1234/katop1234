@@ -1,9 +1,5 @@
 # Hi, I'm Kathan 👋
 
-I'm very interested in optimization:
-1) natural gradient methods for optimizing AI
-2) AI assistants for optimizing my life
-
 ---
 
 ## Projects
