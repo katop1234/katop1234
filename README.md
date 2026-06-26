@@ -11,7 +11,7 @@
 
 ## Projects
 
-- 📄 [Resume Feedback Assistant](https://github.com/katop1234/resume_feedback) — uses self-play to iteratively update your resume to pass any AI screener.
+- 📄 [Resume Feedback Assistant](https://github.com/katop1234/resume_feedback) — Uses self-play to iteratively update your resume to pass any AI screener
 - 🗜️ [flatten-repo](https://github.com/katop1234/flatten-repo) — stick your codebase into ChatGPT to get unlimited AI coding for free.
 - 🤝 [Aishwarya](https://github.com/katop1234/ai_hiring) — AI agent for staffing.
 - 👶 [AI baby](https://github.com/katop1234/ai-baby) — AI baby for couples to raise.
