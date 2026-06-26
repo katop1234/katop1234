@@ -1,7 +1,5 @@
 # Hi, I'm Kathan 👋
 
-🧠 Optimization researcher & builder — natural gradient methods for optimizing AI, and AI assistants for optimizing life.
-
 ## Research
 
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024 (poster).
