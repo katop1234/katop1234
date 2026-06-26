@@ -4,7 +4,7 @@
 
 ## Research
 
-- 🎓 [SPDER](https://github.com/katop1234/spder) — Semiperiodic Damping-Enabled Object Representation. Accepted ICLR 2024 (poster).
+- 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024 (poster).
 - 🏹 [Artemis](https://github.com/katop1234/artemis) — a novel line search-based optimizer designed for long rollouts that can jointly optimize neural networks with scalar hyperparameters. Competitive with state-of-the-art black box optimizers such as NES/CMA-ES.
 - 📐 math_self_study — a library for self-studying graduate-level mathematics.
 - 📚 Math of Deep Learning — (coming soon) a comprehensive mapping of mathematical topics for deep learning.
