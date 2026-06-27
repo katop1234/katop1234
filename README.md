@@ -15,7 +15,7 @@
 
 ## Reading
 
-### 📐 [Math Self-study](https://github.com/katop1234/math-self-study) — graduate-level mathematics
+### 📐 [Graduate-level Math Self-study](https://github.com/katop1234/math-self-study)
 
 - 📈 [Analysis](https://github.com/katop1234/math-self-study#analysis)
 - 🔢 [Linear Algebra](https://github.com/katop1234/math-self-study#linear-algebra)
@@ -26,7 +26,7 @@
 - #️⃣ [Number Theory](https://github.com/katop1234/math-self-study#number-theory)
 - 🧩 [Other](https://github.com/katop1234/math-self-study#other)
 
-### 📚 [Books I've Read](https://github.com/katop1234/reading) - personal library
+### 📚 [Personal Library](https://github.com/katop1234/reading)
 
 - 🕉️ [Hinduism & Vedic](https://github.com/katop1234/reading#hinduism--vedic)
 - ☸️ [Buddhism & Zen](https://github.com/katop1234/reading#buddhism--zen)
