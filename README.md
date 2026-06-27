@@ -4,7 +4,6 @@
 
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024 (poster).
 - 🏹 [Artemis](https://github.com/katop1234/artemis) — a line search black-box optimizer designed for long rollouts that can jointly optimize neural network parameters with scalar hyperparameters.
-- 📐 [Math Self Study](https://github.com/katop1234/math-self-study) — a library for self-studying graduate-level mathematics.
 - 📚 [Math of Deep Learning](https://github.com/katop1234/math-of-deep-learning) — complete deepdive into the fundamentals of deep learning and information geometry.
 
 ## Projects
@@ -18,6 +17,7 @@
 
 ## Reading
 
+- 📐 [Math Self Study](https://github.com/katop1234/math-self-study) — a library for self-studying graduate-level mathematics.
 - 📚 [Books I've read](https://github.com/katop1234/reading) — by theme (Vedic, philosophy, self-help, literature…)
 - 🧮 Fisher-inspired optimization methods
 - 🎯 KL-aware REINFORCE / reward optimization
