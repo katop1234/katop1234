@@ -18,11 +18,4 @@
 ## Reading
 
 - 📐 [Math Self Study](https://github.com/katop1234/math-self-study) — a library for self-studying graduate-level mathematics.
-- 📚 [Books I've read](https://github.com/katop1234/reading) — by theme (Vedic, philosophy, self-help, literature…)
-- 🧮 Fisher-inspired optimization methods
-- 🎯 KL-aware REINFORCE / reward optimization
-- 🧠 Prompt tuning and learned reasoning
-- 🔡 Embedding table optimization
-- 🧭 Search, value functions, and greedy methods
-- 🌟 Theoretical links between A* and value functions
-- ♾️ Kolmogorov complexity
+- 📚 [Books I've read](https://github.com/katop1234/reading) — by theme: Vedas, philosophy, self-help, world religions, biographies
