@@ -1,5 +1,3 @@
-# Hi, I'm Kathan 👋
-
 ## Research
 
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024 (poster).
