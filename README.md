@@ -17,14 +17,14 @@
 
 ### 📐 [Math Self-study](https://github.com/katop1234/math-self-study) — graduate-level mathematics
 
-- [Analysis](https://github.com/katop1234/math-self-study#analysis)
-- [Linear Algebra](https://github.com/katop1234/math-self-study#linear-algebra)
-- [Topology & Geometry](https://github.com/katop1234/math-self-study#topology--geometry)
-- [Information Theory & Geometry](https://github.com/katop1234/math-self-study#information-theory--geometry)
-- [Probability](https://github.com/katop1234/math-self-study#probability)
-- [Logic & Metamathematics](https://github.com/katop1234/math-self-study#logic--metamathematics)
-- [Number Theory](https://github.com/katop1234/math-self-study#number-theory)
-- [Other](https://github.com/katop1234/math-self-study#other)
+- 📈 [Analysis](https://github.com/katop1234/math-self-study#analysis)
+- 🔢 [Linear Algebra](https://github.com/katop1234/math-self-study#linear-algebra)
+- 📐 [Topology & Geometry](https://github.com/katop1234/math-self-study#topology--geometry)
+- 📡 [Information Theory & Geometry](https://github.com/katop1234/math-self-study#information-theory--geometry)
+- 🎲 [Probability](https://github.com/katop1234/math-self-study#probability)
+- ♾️ [Logic & Metamathematics](https://github.com/katop1234/math-self-study#logic--metamathematics)
+- #️⃣ [Number Theory](https://github.com/katop1234/math-self-study#number-theory)
+- 🧩 [Other](https://github.com/katop1234/math-self-study#other)
 
 ### 📚 [Books I've Read](https://github.com/katop1234/reading) - personal library
 
