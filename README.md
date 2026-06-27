@@ -15,5 +15,24 @@
 
 ## Reading
 
-- 📐 [Math Self-study](https://github.com/katop1234/math-self-study) — a library for self-studying graduate-level mathematics.
-- 📚 [Books I've read](https://github.com/katop1234/reading) — by theme: Hinduism & Vedic, Buddhism & Zen, World Religions, Philosophy, Science, Biographies, Self Help, Literature
+### 📐 [Math Self-study](https://github.com/katop1234/math-self-study) — graduate-level mathematics
+
+- [Analysis](https://github.com/katop1234/math-self-study#analysis)
+- [Linear Algebra](https://github.com/katop1234/math-self-study#linear-algebra)
+- [Topology & Geometry](https://github.com/katop1234/math-self-study#topology--geometry)
+- [Information Theory & Geometry](https://github.com/katop1234/math-self-study#information-theory--geometry)
+- [Probability](https://github.com/katop1234/math-self-study#probability)
+- [Logic & Metamathematics](https://github.com/katop1234/math-self-study#logic--metamathematics)
+- [Number Theory](https://github.com/katop1234/math-self-study#number-theory)
+- [Other](https://github.com/katop1234/math-self-study#other)
+
+### 📚 [Books I've Read](https://github.com/katop1234/reading)
+
+- [Hinduism & Vedic](https://github.com/katop1234/reading#hinduism--vedic)
+- [Buddhism & Zen](https://github.com/katop1234/reading#buddhism--zen)
+- [World Religions](https://github.com/katop1234/reading#world-religions)
+- [Philosophy](https://github.com/katop1234/reading#philosophy)
+- [Science](https://github.com/katop1234/reading#science)
+- [Biographies](https://github.com/katop1234/reading#biographies)
+- [Self Help](https://github.com/katop1234/reading#self-help)
+- [Literature](https://github.com/katop1234/reading#literature)
