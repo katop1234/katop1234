@@ -26,13 +26,13 @@
 - [Number Theory](https://github.com/katop1234/math-self-study#number-theory)
 - [Other](https://github.com/katop1234/math-self-study#other)
 
-### 📚 [Books I've Read](https://github.com/katop1234/reading)
+### 📚 [Books I've Read](https://github.com/katop1234/reading) - personal library
 
-- [Hinduism & Vedic](https://github.com/katop1234/reading#hinduism--vedic)
-- [Buddhism & Zen](https://github.com/katop1234/reading#buddhism--zen)
-- [World Religions](https://github.com/katop1234/reading#world-religions)
-- [Philosophy](https://github.com/katop1234/reading#philosophy)
-- [Science](https://github.com/katop1234/reading#science)
-- [Biographies](https://github.com/katop1234/reading#biographies)
-- [Self Help](https://github.com/katop1234/reading#self-help)
-- [Literature](https://github.com/katop1234/reading#literature)
+- 🕉️ [Hinduism & Vedic](https://github.com/katop1234/reading#hinduism--vedic)
+- ☸️ [Buddhism & Zen](https://github.com/katop1234/reading#buddhism--zen)
+- 🛐 [World Religions](https://github.com/katop1234/reading#world-religions)
+- 🏛️ [Philosophy](https://github.com/katop1234/reading#philosophy)
+- 🔭 [Science](https://github.com/katop1234/reading#science)
+- 👤 [Biographies](https://github.com/katop1234/reading#biographies)
+- 🌱 [Self Help](https://github.com/katop1234/reading#self-help)
+- 📖 [Literature](https://github.com/katop1234/reading#literature)
