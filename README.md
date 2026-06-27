@@ -1,5 +1,7 @@
 ## Research
 
+- 🧬 [EWSR1–BEND2 fusion defines an epigenetically distinct subtype of astroblastoma](https://link.springer.com/article/10.1007/s00401-021-02388-y) — *Acta Neuropathologica* (2021), 41 citations. Computational genomics work @ UCSF identifying a recurrent gene fusion that marks a distinct molecular subtype of this rare brain tumor.
+- 🧬 [Low-grade glioneuronal tumors with FGFR2 fusion resolve into a single epigenetic group (PLNTY)](https://link.springer.com/article/10.1007/s00401-021-02352-w) — *Acta Neuropathologica* (2021), 29 citations. Methylation/epigenomic analysis @ UCSF showing FGFR2-fusion tumors form one coherent class ("PLNTY").
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024 (poster).
 - 🏹 [Artemis](https://github.com/katop1234/artemis) — a line search black-box optimizer designed for long rollouts
 - 🎥 [Video Inpainting](https://github.com/katop1234/video_inpainting) — scalable in-context learning of generative vision models @ Berkeley AI Research.
