@@ -20,11 +20,14 @@
 - 📈 [Analysis](https://github.com/katop1234/math-self-study#analysis)
 - 🔢 [Linear Algebra](https://github.com/katop1234/math-self-study#linear-algebra)
 - 📐 [Topology & Geometry](https://github.com/katop1234/math-self-study#topology--geometry)
-- 📡 [Information Theory & Geometry](https://github.com/katop1234/math-self-study#information-theory--geometry)
+- 🌀 [Non-Euclidean Geometry](https://github.com/katop1234/math-self-study#non-euclidean-geometry)
+- 📡 [Information Theory](https://github.com/katop1234/math-self-study#information-theory)
+- 🧭 [Information Geometry](https://github.com/katop1234/math-self-study#information-geometry)
 - 🎲 [Probability](https://github.com/katop1234/math-self-study#probability)
 - ♾️ [Logic & Metamathematics](https://github.com/katop1234/math-self-study#logic--metamathematics)
 - #️⃣ [Number Theory](https://github.com/katop1234/math-self-study#number-theory)
-- 🧩 [Other](https://github.com/katop1234/math-self-study#other)
+- ⚛️ [Quantum Mechanics](https://github.com/katop1234/math-self-study#quantum-mechanics)
+- ⭐ [Favorites](https://github.com/katop1234/math-self-study#favorites)
 
 ### 📚 [Personal Library](https://github.com/katop1234/reading)
 
