@@ -9,7 +9,7 @@
 
 ## Projects
 
-- 📄 [resume-feedback](https://github.com/katop1234/resume_feedback) — Uses self-play to iteratively update your resume to pass any AI screener
+- 📄 [resume-feedback](https://github.com/katop1234/resume_feedback) — Uses self-play to iteratively update your resume
 - 💬 [messages-connector](https://github.com/katop1234/messages-connector) — let any on-device LLM read & send your iMessage / WhatsApp texts, fully local.
 - 🗜️ [flatten-repo](https://github.com/katop1234/flatten-repo) — stick your codebase into ChatGPT to get unlimited AI coding for free.
 - 👶 [ai-baby](https://github.com/katop1234/ai-baby) — AI baby for couples to raise.
