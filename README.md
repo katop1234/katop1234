@@ -1,6 +1,6 @@
 ## Research
 
-- 🔥 [Ember](https://arxiv.org/abs/2607.01455) — an O(V+D) optimizer that replaces Adam for Embed and LM-head matrices.
+- 🔥 [Ember](https://github.com/katop1234/ember) — an O(V+D) optimizer that replaces Adam for Embed and LM-head matrices.
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024 (poster).
 - 🏹 [Artemis](https://github.com/katop1234/artemis) — a line search black-box optimizer designed for long rollouts
 - 🎥 [Video Inpainting](https://github.com/katop1234/video_inpainting) — scalable in-context learning of generative vision models @ Berkeley AI Research.
