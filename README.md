@@ -14,7 +14,6 @@
 - 🗜️ [flatten-repo](https://github.com/katop1234/flatten-repo) — stick your codebase into ChatGPT to get unlimited AI coding for free.
 - 👶 [ai-baby](https://github.com/katop1234/ai-baby) — AI baby for couples to raise.
 - 👗 [fasha](https://github.com/katop1234/fasha) — AI fashion / virtual try-on app for exploring outfits and personalized style.
-- 📈 [FPT3](https://github.com/katop1234/trader) — Financial Pretrained Transformer used to trade equities.
 
 ## Reading
 
