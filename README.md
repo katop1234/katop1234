@@ -1,6 +1,6 @@
 ## Research
 
-- 🔥 [Ember](https://github.com/katop1234/ember) — an O(V+D) optimizer that replaces Adam for Embed and LM-head matrices \[[nanogpt speedrun record attempt — PR #346, in review](https://github.com/KellerJordan/modded-nanogpt/pull/346)\]
+- 🔥 [Ember](https://github.com/katop1234/ember) — an O(V+D) optimizer that replaces Adam for Embed and LM-head matrices \[[nanogpt speedrun record PR #346, in review](https://github.com/KellerJordan/modded-nanogpt/pull/346)\]
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024.
 - 🏹 [Artemis](https://github.com/katop1234/artemis) — a line search black-box optimizer designed for long rollouts
 - 🧬 [Deep](https://link.springer.com/article/10.1007/s00401-021-02388-y) [learning](https://link.springer.com/article/10.1007/s00401-021-02352-w) for genomics — published @ UCSF with 60+ citations
