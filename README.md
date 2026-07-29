@@ -4,7 +4,7 @@
 - 🎓 [Positional-embedding aware activations](https://github.com/katop1234/spder) — Accepted ICLR 2024.
 - 🏹 [Artemis](https://github.com/katop1234/artemis) — a line search black-box optimizer designed for long rollouts
 - 🧬 [Deep](https://link.springer.com/article/10.1007/s00401-021-02388-y) [learning](https://link.springer.com/article/10.1007/s00401-021-02352-w) for genomics — published @ UCSF with 60+ citations
-- 📚 [Mathematics of deep learning](https://github.com/katop1234/math-of-deep-learning) — complete deepdive into the fundamentals of deep learning and information geometry.
+- 📚 [Mathematics of deep learning](https://github.com/katop1234/math-of-deep-learning) — deepdive into deep learning and information geometry fundamentals
 
 ## Projects
 
